@@ -1,0 +1,4 @@
+Log file created at: 2018/01/18 09:11:28
+Running on machine: AJBC-1560
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0118 09:11:28.155232  2708 main.cpp:19] Hello,INFO!
